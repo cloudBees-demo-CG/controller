@@ -1,0 +1,4 @@
+variables:
+- team: cloudBees-demo-CG
+- admin-user: vivek-pawarcg-admin
+- manager-user: vivek-pawarcg
